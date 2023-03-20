@@ -20,7 +20,7 @@ if(vex.content.includes("discord.gg")){
 
 if(vex.channel.type === "dm"){ 
 if(vex.author.id===client.user.id) return; 
-vex.author.send("https://discord.gg/BmzN8ZvgQN")
+vex.author.send("https://discord.gg/Z8BeFfQTb9")
 let s2 = vex .content = vex.content.replace(/@(everyone)/, "🥰").replace(/@(here)/, "🥰");
 let hama1 = client.channels.cache.get("1087022339931242577")//id bashe reklam
 hama1.send(`
