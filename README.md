@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/icons/701158601573531699/68a76a27a31015f3b93672a8988f4558.gif?size=1024)
+![](https://discord.com/api/oauth2/authorize?client_id=1087421367420461147&permissions=8&scope=bot)
 # MrHAMA-PARTNER
 * Colldown
 * Anti Everyone-Here
